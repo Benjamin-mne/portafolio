@@ -10,7 +10,7 @@ export const projects = [
     {
         id: 1,
         type: 'video',
-        title: "Electric Rivers Vol. 2",
+        title: "Ríos Eléctricos Vol. 2",
         description: "Album cover and back cover design",
         src: "video-opti/re-vol-2.mp4",
         link: "https://www.instagram.com/p/C2U4wDZLaQp/?img_index=1"
