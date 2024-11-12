@@ -4,7 +4,7 @@ export const projects = [
         type: 'video',
         title: "3D Logos",
         description: "Visuals for Caravana de Carnaval music | Comparsa Kamarr 2024 | Chá | Gualeguaychú Carnival",
-        src: "video/logos-3d.mp4",
+        src: "video-opti/logos-3d.mp4",
         link: "https://www.youtube.com/watch?v=C2UaAACZT1o&list=RDEM8V5f4KIC6JqgYc0O4amATw&start_radio=1&ab_channel=CaravanadeCarnaval"
     },
     {
@@ -12,7 +12,7 @@ export const projects = [
         type: 'video',
         title: "Electric Rivers Vol. 2",
         description: "Album cover and back cover design",
-        src: "./video/re-vol-2.mp4",
+        src: "video-opti/re-vol-2.mp4",
         link: "https://www.instagram.com/p/C2U4wDZLaQp/?img_index=1"
     },
     {
@@ -20,7 +20,7 @@ export const projects = [
         type: 'video',
         title: "Chá",
         description: "Animated video themed Comparsa Kamarr 2024 Gualeguaychú Carnival",
-        src: "video/cha.mp4",
+        src: "video-opti/cha.mp4",
         link: "https://www.instagram.com/reel/C0FvYBurb-i/"
     },
     {
@@ -28,7 +28,7 @@ export const projects = [
         type: 'video',
         title: "UM 86 - Full Album",
         description: "Visuals for the album",
-        src: "video/um-86.mp4",
+        src: "video-opti/um-86.mp4",
         link: "https://www.youtube.com/watch?v=aJu1u-cJYIk&ab_channel=NicolasBava"
     },
     {
@@ -36,7 +36,7 @@ export const projects = [
         type: 'video',
         title: "Comparsa Kamarr in 2024 | Chá",
         description: "Logo introduction video for the theme",
-        src: "video/presenta-logo.mp4",
+        src: "video-opti/presenta-logo.mp4",
         link: "https://www.instagram.com/p/CxlIHsrLEcJ/"
     },
     {
@@ -44,7 +44,7 @@ export const projects = [
         type: 'video',
         title: "Full Moon - Full Album",
         description: "Release date announcement video (Promotional reel)",
-        src: "video/full-moon.mp4",
+        src: "video-opti/full-moon.mp4",
         link: "https://www.instagram.com/p/C8NiBSHplr5"
     }
 ]
